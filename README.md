@@ -62,13 +62,13 @@ The project was developed using Python with a focus on rapid prototyping and int
    pip install -r requirements.txt
 
    ```
-3. Run the project  
+3. Run the project (if below doesnt work then use  -> python -m streamlit run main.py )  
    ```sh
-   streamlit run main.py(if this doesnt work then -python -m streamlit run main.py )
+   streamlit run main.py
    ```
-4. Testcases  
+4. Testcases (install this if not present before running testcases- 'pip install pytest')  
    ```sh
-   pytest test_main.py (install this if not present - 'pip install pytest')
+   pytest test_main.py 
    ```
 
 ## 🏗️ Tech Stack
