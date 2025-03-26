@@ -18,7 +18,7 @@ The **Hyper-Personalization Dashboard** is an AI-driven web application designed
 
 
 ## 🎥 Demo 
-📹 [Video Demo](#) (attached in artifacts : aidhp-atificial-ai-agents\artifacts\demo)  
+📹 [Video Demo](#) (attached in artifacts : aidhp-atificial-ai-agents)  
 🖼️ Screenshots:
 
 ![alt text](image.png)
