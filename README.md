@@ -21,7 +21,7 @@ The **Hyper-Personalization Dashboard** is an AI-driven web application designed
 📹 [Video Demo](#) (attached in artifacts : aidhp-atificial-ai-agents\artifacts\demo)  
 🖼️ Screenshots:
 
-![Screenshot 1](![alt text](image.png))
+![alt text](image.png)
 
 ## 💡 Inspiration
 The project was inspired by the increasing need for tailored financial services and customer experiences. With data-driven personalization at its core, the dashboard addresses the challenge of delivering the right insights at the right time, empowering users to make informed financial decisions.
